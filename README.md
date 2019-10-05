@@ -1,6 +1,9 @@
 ![Quasar Framework logo](https://cdn.rawgit.com/quasarframework/quasar-art/863c14bd/dist/svg/quasar-logo-full-inline.svg)
 
 # Quasar App Codesandbox Template
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/quasar-vuex-orm-template.svg)](https://greenkeeper.io/)
+
 > A Template for using Quasar on Codesandbox.io.
 
 ![Codesanbox Entry Server Screen](https://cdn.quasar.dev/codesandbox/codesandbox-entry.jpg)
